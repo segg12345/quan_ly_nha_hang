@@ -85,11 +85,7 @@ Quan-ly-nha-hang-master/
 │
 ├── erd/                                # SƠ ĐỒ THỰC THỂ - QUAN HỆ (ERD)
 │   ├── erd.png                         # Ảnh sơ đồ vật lý (Crow's Foot)
-│   ├── erd_chen.png                    # Ảnh sơ đồ quan niệm (Chen Notation)
-│   ├── erd_chen.svg                    # File vector SVG chất lượng cao
-│   ├── erd_viewer.html                 # Trình xem tương tác HTML cho lược đồ Crow's Foot
-│   ├── erd_chen_viewer.html            # Trình xem tương tác HTML cho mô hình Chen
-│   └── *.py                            # Các script Python tự động kết xuất sơ đồ (Graphviz/Matplotlib)
+│   └── erd_chen.png                    # Ảnh sơ đồ quan niệm (Chen Notation)
 │
 └── scripts/                            # Các công cụ script bổ trợ (sinh dữ liệu, đồng bộ tài liệu Word/PDF)
 ```
@@ -414,7 +410,7 @@ Mở trình duyệt web và truy cập:
 Bộ sản phẩm bàn giao đầy đủ của đồ án bao gồm:
 * 📄 **Báo cáo đồ án chính thức (Word - đã cập nhật đầy đủ)**: [`báo cáo/Quản lý nhà hàng.docx`](<báo cáo/Quản lý nhà hàng.docx>)
 * 📑 **Bản in báo cáo chính thức hoàn chỉnh (PDF)**: [`báo cáo/Quản lý nhà hàng.pdf`](<báo cáo/Quản lý nhà hàng.pdf>)
-* 🗺️ **Sơ đồ thực thể ERD tương tác**: [`erd/erd_viewer.html`](erd/erd_viewer.html) & [`erd/erd_chen_viewer.html`](erd/erd_chen_viewer.html)
+* 🗺️ **Sơ đồ thực thể ERD**: [erd/erd.png](erd/erd.png) (Lược đồ vật lý Crow's Foot) & [erd/erd_chen.png](erd/erd_chen.png) (Mô hình quan niệm Chen)
 
 ---
 
