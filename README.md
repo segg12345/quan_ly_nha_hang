@@ -276,11 +276,6 @@ Thao tác chọn món trực quan theo danh mục, thêm món kèm trừ kho ngu
 
 ![Ngăn kéo POS Drawer](web/public/screenshots/fixed_pos_drawer.png)
 
-### 5.4. Giao diện đáp ứng trên Mobile & Tablet (Responsive)
-Hỗ trợ nhân viên phục vụ cầm máy tính bảng hoặc điện thoại thông minh để order trực tiếp tại bàn của thực khách.
-
-<p align="center">
-  <img src="web/public/screenshots/fixed_mobile.png" alt="Giao diện Mobile" width="340" />
 </p>
 
 ---
