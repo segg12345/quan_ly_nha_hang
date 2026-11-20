@@ -276,8 +276,6 @@ Thao tác chọn món trực quan theo danh mục, thêm món kèm trừ kho ngu
 
 ![Ngăn kéo POS Drawer](web/public/screenshots/fixed_pos_drawer.png)
 
-</p>
-
 ---
 
 ## 6. HƯỚNG DẪN CÀI ĐẶT & TRIỂN KHAI
